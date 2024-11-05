@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   
-    <title>Dorne - Directory &amp; Listing Template | Contact</title>
+    <title>SUPER BASKET&amp; Listing Template | Contact</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.ico">
@@ -49,11 +49,12 @@
             <div class="row h-100">
                 <div class="col-12 h-100">
                     <nav class="h-100 navbar navbar-expand-lg">
-                        <a class="navbar-brand" href="index.php"><img src="img/core-img/logo.png" alt=""></a>
+                        <a class="navbar-brand" href="index.php"><img src="img/core-img" alt=""></a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#dorneNav" aria-controls="dorneNav" aria-expanded="false" aria-label="Toggle navigation"><span class="fa fa-bars"></span></button>
                         <!-- Nav -->
                         <div class="collapse navbar-collapse" id="dorneNav">
                             <ul class="navbar-nav mr-auto" id="dorneMenu">
+                                <h2 style="color:violet">SUPER BASKET</h2>
                                 <li class="nav-item">
                                     <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                                 </li>
@@ -87,7 +88,7 @@
                             </div>
                             <!-- Signin btn -->
                             <div class="dorne-signin-btn">
-                                <a href="#">Sign in  or Register</a>
+                                <a href="ragister.php">Sign in  or Register</a>
                             </div>
                             <!-- Add listings btn -->
                             <div class="dorne-add-listings-btn">
@@ -115,12 +116,12 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ac nibh sed mi ullamcorper rhoncus. Curabitur pulvinar vel augue sit amet vestibulum. Proin tempus lacus porta lorem blandit aliquam eget quis ipsum. Vivamus accumsan consequat ligula non volutpat. Sed mollis orci non cursus vestibulum. Pellentesque vitae est a augue laoreet venenatis sed eu felis. Sed cursus magna nec turpis ullamcorper, eget rutrum felis egestas. Nunc odio ex, fermentum efficitur nunc vitae, efficitur hendrerit diam. Lorem ipsum dolor sit amet, consectetur.</p>
                 <div class="contact-info d-lg-flex">
                     <div class="single-contact-info">
-                        <h6><i class="fa fa-map-signs" aria-hidden="true"></i> Main Avenue Soho, NY</h6>
-                        <h6><i class="fa fa-map-signs" aria-hidden="true"></i> No. 25-33</h6>
+                        <h6><i class="fa fa-map-signs" aria-hidden="true"></i> Pala Kottayam Kerala</h6>
+                        <h6><i class="fa fa-map-signs" aria-hidden="true"></i> Kl-35</h6>
                     </div>
                     <div class="single-contact-info">
                         <h6><i class="fa fa-envelope-o" aria-hidden="true"></i> contact@yourbusiness.com</h6>
-                        <h6><i class="fa fa-phone" aria-hidden="true"></i> +34 567 22478 49567</h6>
+                        <h6><i class="fa fa-phone" aria-hidden="true"></i> +91746727363</h6>
                     </div>
                 </div>
             </div>

@@ -60,7 +60,7 @@ $('.navbar-light .dmenu').hover(function () {
             <div class="row h-100">
                 <div class="col-12 h-100">
                     <nav class="h-100 navbar navbar-expand-lg">
-                        <a class="navbar-brand" href="index.php">GROCERY ONLINE SHOPPING</a>
+                        <a class="navbar-brand" href="index.php">SUPER BASKET</a>
                        
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#dorneNav" aria-controls="dorneNav" aria-expanded="false" aria-label="Toggle navigation"><span class="fa fa-bars"></span></button>
                         <!-- Nav -->
@@ -82,6 +82,7 @@ $('.navbar-light .dmenu').hover(function () {
                               
 								<a class="nav-link" href="mycart.php">My Cart</a>
 								<a class="nav-link" href="category.php">Category</a>
+                                <a class="nav-link" href="contact.php">Contact</a>
                               
                                     <a class="nav-link" href="logout.php">Logout</a>
                                     
