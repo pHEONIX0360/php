@@ -61,6 +61,7 @@ $('.navbar-light .dmenu').hover(function () {
                 <div class="col-12 h-100">
                     <nav class="h-100 navbar navbar-expand-lg">
                         <a class="navbar-brand" href="index.php">SUPER BASKET</a>
+                        <img style="width: 150px; align-content: left;" src="img/bg-img/SupaBask.png" alt="logo">
                        
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#dorneNav" aria-controls="dorneNav" aria-expanded="false" aria-label="Toggle navigation"><span class="fa fa-bars"></span></button>
                         <!-- Nav -->
