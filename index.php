@@ -180,7 +180,7 @@ $('.navbar-light .dmenu').hover(function () {
                 </div>
             </div>
 
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-12">
                     <div class="features-slides owl-carousel">
                      
@@ -193,7 +193,7 @@ $('.navbar-light .dmenu').hover(function () {
                         <div class="single-features-area">
                             <a href="view_detail.php?id=<?=$itemid?>"><img src="admin/images/<?=$image?>" style="height:200px;width:400px">
                             <!-- Price -->
-                            <div class="price-start">
+                            <!-- <div class="price-start">
                                 </div>
                             <div class="feature-content d-flex align-items-center justify-content-between" style="height:150px">
                                 <div class="feature-title">
@@ -216,7 +216,7 @@ $('.navbar-light .dmenu').hover(function () {
                         
                     </div>
                 </div>
-            </div></br></br>
+            </div></br></br> --> -->
 			<div class="row">
                 <div class="col-12">
                     <div class="features-slides owl-carousel">
@@ -291,7 +291,7 @@ $('.navbar-light .dmenu').hover(function () {
                     </div>
                 </div>
             </div></br></br>
-			<div class="row">
+			<!-- <div class="row">
                 <div class="col-12">
                     <div class="features-slides owl-carousel">
                      
@@ -304,7 +304,7 @@ $('.navbar-light .dmenu').hover(function () {
                         <a href="view_detail.php?id=<?=$itemid?>"><div class="single-features-area">
                             <img src="admin/images/<?=$image?>" style="height:200px;width:400px">
                             <!-- Price -->
-                            <div class="price-start">
+                            <!-- <div class="price-start">
                                 </div>
                             <div class="feature-content d-flex align-items-center justify-content-between" style="height:150px">
                                 <div class="feature-title">
@@ -327,7 +327,7 @@ $('.navbar-light .dmenu').hover(function () {
                         
                     </div>
                 </div>
-            </div></br></br>
+            </div></br></br> --> -->
 			<div class="row">
                 <div class="col-12">
                     <div class="features-slides owl-carousel">

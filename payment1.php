@@ -66,7 +66,7 @@ $result2=select("select * from user where userid='".$_SESSION['userid']."'");
             <div class="row h-100">
                 <div class="col-12 h-100">
                     <nav class="h-100 navbar navbar-expand-lg">
-					 <a class="navbar-brand" href="index.php">SUPER BASKET</a>
+					 <a class="navbar-brand" href="index.php">ONLINE GROCERY SHOPPING</a>
                        
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#dorneNav" aria-controls="dorneNav" aria-expanded="false" aria-label="Toggle navigation"><span class="fa fa-bars"></span></button>
                         <!-- Nav -->
@@ -142,7 +142,7 @@ $result2=select("select * from user where userid='".$_SESSION['userid']."'");
 <div class="container">
 
   <a href="mycart.php"><button class="btn btn-warning"><span class="glyphicon glyphicon-circle-arrow-left"></span> Go back to cart</button></a>
-  <a href="payment.php"><span class="btn btn-success">Pay Online</span></a>
+  <a href="cod.php"><span class="btn btn-success">Pay Online</span></a>
     <a href="cod.php"><button class="btn btn-success"><span class="glyphicon glyphicon-"></span> Cash On Delivery</button></a>
 </div>
  
