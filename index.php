@@ -417,7 +417,7 @@ $('.navbar-light .dmenu').hover(function () {
                 <div class="col-12 d-md-flex align-items-center justify-content-between">
                     <div class="footer-text">
                         <p>
-                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved </a>
+                            Copyright &copy;<script>2024</script> All rights reserved to Super Basket</a>
 
                         </p>
                     </div>
